@@ -1,0 +1,18 @@
+class Imprimir100
+
+def imprimir
+n=1
+while var<1oo
+if n%3==0
+puts 'foo'
+ifn%5==0
+puts 'bar'
+if n%3==0&&n%5==0
+puts'foobar'
+else 
+puts n;
+end
+
+a=Imprimir100.new
+a.imprimir
+

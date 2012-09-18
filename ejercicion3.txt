@@ -1,0 +1,9 @@
+Class invertir
+
+def initialize(texto)
+@texto=texto
+end
+
+def voltear 
+invertir.texto.reverse
+end
